@@ -165,3 +165,10 @@ flex-direction: column;
 .product_card:hover .add_cart_btn{
     background-color: rgb(249, 110, 95);
 }
+.product_error{
+  font-size:26px;
+  color: gray;
+  font-weight: bold;
+  text-align: center;
+  display: none;
+}
